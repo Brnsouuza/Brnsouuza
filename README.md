@@ -13,6 +13,10 @@
 These are some of the technologies and tools that I work with:
 
 ##
+
+<img loading="lazy" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" alt="trinib" class="d-block width-full">
+
+##
 <div style="dislay: incline_block"><br>
 <img aling="center" alt="Bruno-Js" height="50" windth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width: 100%;">
 <img aling="center" alt="Bruno-Bitbucket" height="50" windth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" style="max-width: 100%;">
