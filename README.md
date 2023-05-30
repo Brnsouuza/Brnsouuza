@@ -14,4 +14,11 @@
 
 
 
-####🌐 Technologies
+##### 🌐 Technologies
+
+![image](https://github.com/Brnsouuza/Brnsouuza/assets/135022453/7417a97d-2b05-45c4-b69b-4e9a514c15f7)
+![image](https://github.com/Brnsouuza/Brnsouuza/assets/135022453/a02f5c5e-0b76-473e-ba6d-4cbba22ef543)
+![image](https://github.com/Brnsouuza/Brnsouuza/assets/135022453/22266610-7e46-4508-b6d6-075e989f5357)
+![image](https://github.com/Brnsouuza/Brnsouuza/assets/135022453/228974c6-6b1b-45f8-ba68-e824e77b14d3)
+![image](https://github.com/Brnsouuza/Brnsouuza/assets/135022453/fb04726c-dd91-4a30-acd8-49646534d025)
+![image](https://github.com/Brnsouuza/Brnsouuza/assets/135022453/66a20c3c-2cbe-47af-a265-b8105d087d03)
