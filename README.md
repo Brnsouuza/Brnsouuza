@@ -14,7 +14,8 @@
 
 
 
-##### 🌐 Technologies
+###🔨 Technologies
+##These are some of the technologies and tools that I work with:
 
 ![image](https://github.com/Brnsouuza/Brnsouuza/assets/135022453/7417a97d-2b05-45c4-b69b-4e9a514c15f7)
 ![image](https://github.com/Brnsouuza/Brnsouuza/assets/135022453/a02f5c5e-0b76-473e-ba6d-4cbba22ef543)
