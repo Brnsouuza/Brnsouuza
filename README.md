@@ -22,6 +22,6 @@ These are some of the technologies and tools that I work with:
 <img aling="center" alt="Bruno-Jenkins" height="50" windth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" style="max-width: 100%;">
 <img aling="center" alt="Bruno-Jenkins" height="50" windth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="max-width: 100%;">
 <img aling="center" alt="Bruno-Html" height="50" windth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="max-width: 100%;">
-<img aling="center" alt="Bruno-Html" height="50" windth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="max-width: 100%;">
+<img aling="center" alt="Bruno-Html" height="50" windth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="max-width: 100%;">
 
   </div>
