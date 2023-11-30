@@ -21,7 +21,7 @@ These are some of the technologies and tools that I work with:
 <img aling="center" alt="Bruno-Grafana" height="50" windth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" style="max-width: 100%;">
 <img aling="center" alt="Bruno-Jenkins" height="50" windth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" style="max-width: 100%;">
 <img aling="center" alt="Bruno-Jenkins" height="50" windth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="max-width: 100%;">
-<img aling="center" alt="Bruno-Html" height="50" windth="60" src=![image](https://github.com/Brnsouuza/Brnsouuza/assets/135022453/941e231a-d38a-424b-b1f2-78b6ec0d4019) style="max-width: 100%;">
-<img aling="center" alt="Bruno-Html" height="50" windth="60" src=!![image](https://github.com/Brnsouuza/Brnsouuza/assets/135022453/e2e34324-399b-4dc0-aa31-e4a8e046d2af) style="max-width: 100%;">
+<img aling="center" alt="Bruno-Html" height="50" windth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="max-width: 100%;">
+<img aling="center" alt="Bruno-Html" height="50" windth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="max-width: 100%;">
 
   </div>
