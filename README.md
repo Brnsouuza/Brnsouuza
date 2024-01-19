@@ -1,8 +1,3 @@
-### What's Up  👋
-##### System.out.println(“Hello, Java”);🤘
-“*Não há nada impossível que não possa ser feito quando se semeá vontade e disciplina*”.
-##### 💀 Getting started in the Developer area.
-
 <a href="https://www.linkedin.com/in/bruno-souza-1bb94b13b/" rel="nofollow">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin: Bruno" height="20" windth="30" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/bruno-souza-1bb94b13b/" style="max-width: 100%;">
 
