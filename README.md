@@ -1,9 +1,8 @@
 ### Hi There 👋
-<div>
-   <p>
+
 Meu nome é Bruno e estou há 10 anos nessa área maravilhosa chamada Tecnologia da Informação. Minha experiência iniciou em hardware, depois migrei para a área de suporte, onde me conectei ainda mais com a profissão e descobri um vasto universo de tecnologias, como infraestrutura, redes, desenvolvimento e consultoria. Atualmente, estou focado na trilha de Front-end, onde tenho aprendido muito e obtido ótimos resultados.
-   </p>
-</div>
+
+ [![LinkedIn: Bruno](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brnsouuza)](https://www.linkedin.com/in/brnsouuza)
 
 ## ⚡ Minhas Tecnologias
 
@@ -37,8 +36,6 @@ IDEs:
 <img aling="center" alt="Bruno-sql" height="50" windth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" style="max-width: 100%;">
 <img aling="center" alt="Bruno-sql" height="50" windth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="max-width: 100%;">
 </div><br> -->
-
-[![LinkedIn: Bruno](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brnsouuza)](https://www.linkedin.com/in/brnsouuza)
 
 
 ## 📊 GitHub Status
