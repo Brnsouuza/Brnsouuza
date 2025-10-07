@@ -38,13 +38,6 @@ IDEs:
 <img aling="center" alt="Bruno-sql" height="50" windth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="max-width: 100%;">
 </div><br> -->
 
-## 📝 Cursos e Certificações
-
-Descrição   | Instituição   | Ano | Tipo
---------- | --------- | -------- | ----
-
-# Minhas Redes Sociais
-
 [![LinkedIn: Bruno](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brnsouuza)](https://www.linkedin.com/in/brnsouuza)
 
 
