@@ -45,7 +45,7 @@ Descrição   | Instituição   | Ano | Tipo
 
 # Minhas Redes Sociais
 
-[![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hwww.linkedin.com/in/brnsouuza)](www.linkedin.com/in/brnsouuza)
+[![LinkedIn: Bruno](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brnsouuza)](https://www.linkedin.com/in/brnsouuza)
 
 
 ## 📊 GitHub Status
