@@ -43,11 +43,10 @@ IDEs:
 Descrição   | Instituição   | Ano | Tipo
 --------- | --------- | -------- | ----
 
-## Minhas Redes Sociais
+# Minhas Redes Sociais
 
-<div>
- 
-</div>
+[![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hwww.linkedin.com/in/brnsouuza)](www.linkedin.com/in/brnsouuza)
+
 
 ## 📊 GitHub Status
 
